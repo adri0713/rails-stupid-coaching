@@ -1,0 +1,55 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  color: #0FA3B1;
+  font-weight: lighter;
+}
+
+h6 {
+
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-weight: lighter;
+  text-align: left
+
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  color: #0FA3B1;
+  text-align: left;
+  font-size: 16px;
+}
+
+.container {
+  text-align: center;
+  width: 50vw;
+  background-color: #CACFD6;
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid lightgrey;
+}
+
+input {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+a {
+  text-decoration: none;
+  color: #CACFD6;
+}
+
+td {
+  border-left: 3px solid #0FA3B1;
+  padding: 5px 10px;
+}
